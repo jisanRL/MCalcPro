@@ -17,6 +17,9 @@ import java.util.Locale;
 
 import ca.roumani.i2c.MPro;
 
+
+//Youtube: https://youtu.be/ERT3f8tj4qA
+
 public class MainActivity extends AppCompatActivity implements TextToSpeech.OnInitListener, SensorEventListener {
 
     private static final String TAG = "DEBUG: MCalcPro";
